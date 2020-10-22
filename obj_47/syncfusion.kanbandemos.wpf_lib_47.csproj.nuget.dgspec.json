@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\syncfusion.kanbandemos.wpf_lib_47.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj",
+        "projectName": "syncfusion.demoscommon.wpf_lib_47",
+        "projectPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj",
+        "packagesPath": "C:\\Users\\Shalom Malovicki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\obj_47\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shalom Malovicki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\syncfusion.kanbandemos.wpf_lib_47.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\syncfusion.kanbandemos.wpf_lib_47.csproj",
+        "projectName": "syncfusion.kanbandemos.wpf_lib_47",
+        "projectPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\syncfusion.kanbandemos.wpf_lib_47.csproj",
+        "packagesPath": "C:\\Users\\Shalom Malovicki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\obj_47\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Shalom Malovicki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net47"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net47": {
+            "projectReferences": {
+              "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj": {
+                "projectPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net47": {
+          "dependencies": {
+            "Microsoft.Xaml.Behaviors.Wpf": {
+              "target": "Package",
+              "version": "[1.1.19, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7": {
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.XML",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        }
+      },
+      "syncfusion.demoscommon.wpf_lib_47/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19"
+        },
+        "compile": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win": {
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.XML",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        }
+      },
+      "syncfusion.demoscommon.wpf_lib_47/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19"
+        },
+        "compile": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x64": {
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.XML",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        }
+      },
+      "syncfusion.demoscommon.wpf_lib_47/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19"
+        },
+        "compile": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7/win-x86": {
+      "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "PresentationCore",
+          "PresentationFramework",
+          "System",
+          "System.Core",
+          "System.XML",
+          "System.Xaml",
+          "WindowsBase"
+        ],
+        "compile": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.Xaml.Behaviors.dll": {}
+        }
+      },
+      "syncfusion.demoscommon.wpf_lib_47/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.7",
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": "1.1.19"
+        },
+        "compile": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/syncfusion.demoscommon.wpf_lib_47.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Xaml.Behaviors.Wpf/1.1.19": {
+      "sha512": "5sPWkbqImc2t1aQwIfJcKsUo7tOg1Tr8+6xVzZJB56Nzt4u9NlpcLofgdX/aRYpPKdWDA3U23Akw1KQzU5e82g==",
+      "type": "package",
+      "path": "microsoft.xaml.behaviors.wpf/1.1.19",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/Design/Microsoft.Xaml.Behaviors.Design.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.dll",
+        "lib/net45/Microsoft.Xaml.Behaviors.pdb",
+        "lib/net45/Microsoft.Xaml.Behaviors.xml",
+        "lib/netcoreapp3.0/Design/Microsoft.Xaml.Behaviors.DesignTools.dll",
+        "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.dll",
+        "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.pdb",
+        "lib/netcoreapp3.0/Microsoft.Xaml.Behaviors.xml",
+        "microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+        "microsoft.xaml.behaviors.wpf.nuspec",
+        "tools/Install.ps1"
+      ]
+    },
+    "syncfusion.demoscommon.wpf_lib_47/1.0.0": {
+      "type": "project",
+      "path": "../common/syncfusion.demoscommon.wpf_lib_47.csproj",
+      "msbuildProject": "../common/syncfusion.demoscommon.wpf_lib_47.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7": [
+      "Microsoft.Xaml.Behaviors.Wpf >= 1.1.19",
+      "syncfusion.demoscommon.wpf_lib_47 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Shalom Malovicki\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\syncfusion.kanbandemos.wpf_lib_47.csproj",
+      "projectName": "syncfusion.kanbandemos.wpf_lib_47",
+      "projectPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\syncfusion.kanbandemos.wpf_lib_47.csproj",
+      "packagesPath": "C:\\Users\\Shalom Malovicki\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\kanban\\obj_47\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Shalom Malovicki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net47"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net47": {
+          "projectReferences": {
+            "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj": {
+              "projectPath": "C:\\Users\\Public\\Documents\\Syncfusion\\WPF\\18.3.0.35\\SampleBrowser\\common\\syncfusion.demoscommon.wpf_lib_47.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net47": {
+        "dependencies": {
+          "Microsoft.Xaml.Behaviors.Wpf": {
+            "target": "Package",
+            "version": "[1.1.19, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
