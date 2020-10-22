@@ -57,15 +57,8 @@
     <Compile Include="Views\GettingStarted.xaml.cs">
       <DependentUpon>GettingStarted.xaml</DependentUpon>
     </Compile>
-    <Compile Include="Views\Customization.xaml.cs">
-      <DependentUpon>Customization.xaml</DependentUpon>
-    </Compile>
-    <Compile Include="Views\Swimlane.xaml.cs">
-      <DependentUpon>Swimlane.xaml</DependentUpon>
-    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="KanbanDemosViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -97,14 +90,6 @@
   </ItemGroup>
   <ItemGroup>
     <Page Include="Views\GettingStarted.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Views\Customization.xaml">
-      <Generator>MSBuild:Compile</Generator>
-      <SubType>Designer</SubType>
-    </Page>
-    <Page Include="Views\Swimlane.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
